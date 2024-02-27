@@ -1,0 +1,19 @@
+:root {
+    /* Colors */
+    --clr-primary: hsl(25, 97%, 53%);
+
+    --clr-white: hsl(0, 0%, 100%);
+    --clr-txt-body: hsl(217, 12%, 63%);
+    --clr-btn-hover: hsl(216, 12%, 54%);
+    --clr-btn: hsl(213, 19%, 18%);
+    --clr-bg-body: hsl(228, 11%, 9%);
+
+    --clr-grd-bg: linear-gradient(180deg, var(--clr-btn), hsl(216, 12%, 8%));
+
+    /* Font sizes */
+    --fs-html: 15px;
+    --fs-body: 1rem;
+
+    /* Font families */
+    --ff-body: "Overpass", sans-serif;
+}
